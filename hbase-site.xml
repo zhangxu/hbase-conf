@@ -26,6 +26,7 @@
     <value>true</value>
   </property>
   <property>
+    <!-- Point to running HDFS instance -->
     <name>hbase.rootdir</name>
     <value>hdfs://localhost:9000/hbase</value>
   </property>
